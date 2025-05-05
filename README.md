@@ -2,11 +2,13 @@
 Intended to analyse and generate financial company data in order to help with revenue visualisations.
 
 ### Note:
-The task description and data have been removed, to avoid sharing the task with the world :) 
+The task description and data have been removed, to avoid sharing them with the world :) 
 please add:
+```
 /data/product.csv
 /data/sales.csv
 product_sales.db
+```
 
 ### Main features:
 - Load data for a certain period
