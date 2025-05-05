@@ -4,7 +4,6 @@ import pandas as pd
 import os
 
 
-yesterday = (date.today() - timedelta(days=1)).strftime("%Y-%m-%d")
 db = init_db()
 
 
